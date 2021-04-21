@@ -1,2 +1,3 @@
-- butter
+- Butter
 - Eggs
+- Toilet Paper
